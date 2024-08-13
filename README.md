@@ -1,17 +1,16 @@
 <div align=center>
 
-<!--
-**kimdonggyu2008/kimdonggyu2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Dream%20Chaser&fontSize=60)
+</br>
+</br>
 
-</div>
+# 'I am a...'
 
-
-
-Here are some ideas to get you started:
-
-- 🔭 Programmer
-- 🌱 Producer
-- 👯 Audio & Speech AI Engineer
+🔭 Programmer
+</br>
+🌱 Producer
+</br>
+👯 Audio & Speech AI Engineer
 
 </br>
 </br>
@@ -52,4 +51,4 @@ Techs that I've used
 </br>
 <p align="center"> Contact me here: dkkim2008@gmail.com</p>
 
-</div>
+
