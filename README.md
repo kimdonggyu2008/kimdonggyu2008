@@ -23,6 +23,7 @@ Techs that I've used
 <!-- <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"> -->
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c++&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
 </br>
 </br>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> 
