@@ -12,13 +12,9 @@ Here are some ideas to get you started:
 - 🔭 Programmer
 - 🌱 Producer
 - 👯 Audio & Speech AI Engineer
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
+</br>
+</br>
 
 ### 🛠 Tech Stack
 
@@ -39,6 +35,10 @@ Techs that I've used
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> 
 
+</br>
+</br>
+
+![Dong Gyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdonggyu2008&show_icons=true)
 
 
 </br>
