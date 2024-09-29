@@ -50,6 +50,6 @@ Techs that I've used
 
 </br>
 </br>
-<p align="center"> Contact me here: dkkim2008@gmail.com</p>
+<p align="center"> Contact me here: dkkim2008@naver.com</p>
 
 
