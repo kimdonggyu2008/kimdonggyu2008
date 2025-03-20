@@ -47,7 +47,7 @@ Techs that I've used
 <p align="center"> 2019-2 HUFS Gnuvil (Application Part)</p>
 <p align="center"> 2024-1 HUFS PnP (AI)</p>
 <p align="center"> 2024 Deep daiv. (Audio)</p>
-
+<p align="center"> 2024 SKT FLY AI 6th (AI)</p>
 </br>
 </br>
 <p align="center"> Contact me here: dkkim2008@naver.com</p>
